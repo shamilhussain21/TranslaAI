@@ -1,0 +1,21 @@
+fastapi
+uvicorn
+
+# Audio processing
+pydub
+ffmpeg-python
+
+# Speech-to-text
+openai-whisper
+torch
+
+# Translation
+deep-translator
+langdetect
+
+# Text-to-speech
+gTTS
+
+# Utilities
+python-multipart
+numpy
